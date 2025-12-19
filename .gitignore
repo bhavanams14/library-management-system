@@ -1,0 +1,13 @@
+# Angular
+node_modules/
+dist/
+.angular/
+
+# Spring Boot
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+.env
